@@ -4,6 +4,17 @@ A professional Python GUI application for automated clicking with draggable circ
 
 ![Dragclickable v1.0](dragclickable_icon.png)
 
+## 📸 Screenshots
+
+### Main Interface
+![Main Interface](images/main_interface.png)
+
+### Keybinds Settings
+![Keybinds Window](images/keybinds_window.png)
+
+### Capture Interface
+![Click Settings](images/capture_interface.png)
+
 ## ✨ Features
 
 - 🖥️ **Screen Capture**: Capture your current screen for positioning
@@ -115,7 +126,7 @@ dragclickable-v1/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Dyamonic/dragclickable-v1.git
+git clone https://github.com/yourusername/dragclickable-v1.git
 cd dragclickable-v1
 
 # Install dependencies
@@ -162,6 +173,5 @@ python dragclickable_v1.py
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ⭐ Support
-
 
 If you find this project helpful, please give it a star! ⭐
