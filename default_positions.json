@@ -1,0 +1,37 @@
+[
+  {
+    "circle_number": 1,
+    "screen_x": 739,
+    "screen_y": 954,
+    "canvas_x": 0,
+    "canvas_y": 0
+  },
+  {
+    "circle_number": 2,
+    "screen_x": 801,
+    "screen_y": 954,
+    "canvas_x": 0,
+    "canvas_y": 0
+  },
+  {
+    "circle_number": 3,
+    "screen_x": 864,
+    "screen_y": 954,
+    "canvas_x": 0,
+    "canvas_y": 0
+  },
+  {
+    "circle_number": 4,
+    "screen_x": 924,
+    "screen_y": 952,
+    "canvas_x": 0,
+    "canvas_y": 0
+  },
+  {
+    "circle_number": 5,
+    "screen_x": 984,
+    "screen_y": 954,
+    "canvas_x": 0,
+    "canvas_y": 0
+  }
+]
